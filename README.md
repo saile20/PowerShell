@@ -1,2 +1,2 @@
 # PowerShell
-Learn PowerShell
+Learn PowerShell from scratch
